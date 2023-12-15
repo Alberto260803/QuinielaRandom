@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiniela Random</string>
+    <string name="btn_generate_text">GENERAR</string>
+    <string name="desc_btn_silenciar">Botón para silenciar/reanudar la música</string>
+</resources>
